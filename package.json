@@ -1,7 +1,7 @@
 {
   "author": "FCavalcanti <felipecavalcantirj@gmail.com>",
   "name": "gridfs-stream-nextobj-next",
-  "description": "Writable/Readable Nodejs compatible GridFS streams - from https://github.com/aheckmann/gridfs-stream",
+  "description": "Writable/Readable Nodejs compatible GridFS streams - from https://github.com/aheckmann/gridfs-stream - mixed with https://github.com/lykmapipo/gridfs-stream",
   "version": "0.0.1",
   "keywords": [
     "mongodb",
