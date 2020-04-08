@@ -1,8 +1,8 @@
 {
-  "author": "Aaron Heckmann <aaron.heckmann+github@gmail.com>",
-  "name": "gridfs-stream",
-  "description": "Writable/Readable Nodejs compatible GridFS streams",
-  "version": "1.1.1",
+  "author": "FCavalcanti <felipecavalcantirj@gmail.com>",
+  "name": "gridfs-stream-nextobj-next",
+  "description": "Writable/Readable Nodejs compatible GridFS streams - from https://github.com/aheckmann/gridfs-stream",
+  "version": "0.0.1",
   "keywords": [
     "mongodb",
     "mongoose",
@@ -25,6 +25,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/aheckmann/gridfs-stream.git"
+    "url": "git@github.com:fcavalcantirj/gridfs-stream.git"
   }
 }
